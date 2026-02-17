@@ -1,0 +1,1 @@
+sub_1: lightgbm,StratifiedKFoldで分割,datecountとprice_sumのみ
