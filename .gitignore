@@ -50,3 +50,31 @@ Thumbs.db
 *.ckpt
 *.pt
 *.pth
+*.joblib
+*.sav
+
+# Kaggle competition specific
+# 提出ファイル
+submission_*.csv
+sub_*.csv
+*.csv.bak
+
+# 出力ディレクトリ
+output/
+submisssion/
+submission/
+
+# モデル保存ディレクトリ
+model/
+models/
+checkpoints/
+
+# ログファイル
+*.log
+logs/
+
+# 一時ファイル
+*.tmp
+*.temp
+*.cache
+.cache/
