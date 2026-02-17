@@ -54,8 +54,8 @@ Thumbs.db
 *.sav
 
 # Kaggle competition specific
-# チE�Eタファイル�E�大きすぎるため�E�`ninputs/data.csv
-# 提�Eファイル
+# チE�Eタファイル�E�大きすぎるため�E�`ninputs/data.csv
+# 提�Eファイル
 submission_*.csv
 sub_*.csv
 *.csv.bak
@@ -65,7 +65,7 @@ output/
 submisssion/
 submission/
 
-# モチE��保存ディレクトリ
+# モチE��保存ディレクトリ
 model/
 models/
 checkpoints/
