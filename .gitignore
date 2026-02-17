@@ -54,7 +54,8 @@ Thumbs.db
 *.sav
 
 # Kaggle competition specific
-# 謠仙�ｺ繝輔ぃ繧､繝ｫ
+# 繝・・繧ｿ繝輔ぃ繧､繝ｫ・亥､ｧ縺阪☆縺弱ｋ縺溘ａ・荏ninputs/data.csv
+# 謠仙・繝輔ぃ繧､繝ｫ
 submission_*.csv
 sub_*.csv
 *.csv.bak
@@ -64,7 +65,7 @@ output/
 submisssion/
 submission/
 
-# 繝｢繝�繝ｫ菫晏ｭ倥ョ繧｣繝ｬ繧ｯ繝医Μ
+# 繝｢繝・Ν菫晏ｭ倥ョ繧｣繝ｬ繧ｯ繝医Μ
 model/
 models/
 checkpoints/
