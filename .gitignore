@@ -1,4 +1,5 @@
 # Python
+inputs/
 __pycache__/
 *.py[cod]
 *$py.class
@@ -63,9 +64,7 @@ sub_*.csv
 # 出力ディレクトリ
 output/
 submisssion/
-submission/
-
-# モチE��保存ディレクトリ
+submission/# モチE��保存ディレクトリ
 model/
 models/
 checkpoints/
