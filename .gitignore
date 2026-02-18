@@ -50,3 +50,7 @@ Thumbs.db
 *.ckpt
 *.pt
 *.pth
+# Competition data (DO NOT COMMIT)
+input/
+submission
+
