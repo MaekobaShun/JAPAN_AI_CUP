@@ -1,0 +1,7 @@
+feature,mean_abs_shap
+date_count,0.5453158755797828
+last_purchase_to_avg_interval_ratio,0.49350280548713804
+recent_30_days_visit_count,0.46802392693676703
+days_since_last_purchase,0.41173605601165203
+avg_purchase_interval_days,0.14547665833817544
+ratio_x_datecount,0.04880695909796002
