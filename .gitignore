@@ -1,5 +1,5 @@
 # Python
-inputs/
+data/
 __pycache__/
 *.py[cod]
 *$py.class
@@ -52,16 +52,12 @@ Thumbs.db
 *.pt
 *.pth
 *.joblib
-*.sav
-
-# Kaggle competition specific
+*.sav# Kaggle competition specific
 # チE�Eタファイル�E�大きすぎるため�E�`ninputs/data.csv
 # 提�Eファイル
 submission_*.csv
 sub_*.csv
-*.csv.bak
-
-# 出力ディレクトリ
+*.csv.bak# 出力ディレクトリ
 output/
 submisssion/
 submission/# モチE��保存ディレクトリ

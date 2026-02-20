@@ -1,0 +1,12 @@
+bagging_fraction: 0.7696073620727267
+bagging_freq: 3
+feature_fraction: 0.6624582388345417
+lambda_l1: 2.2220648950080575
+lambda_l2: 18.32140898819412
+learning_rate: 0.03
+max_bin: 300
+metric: auc
+min_data_in_leaf: 63
+num_leaves: 9
+objective: binary
+verbose: -1

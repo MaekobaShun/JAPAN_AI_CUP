@@ -2,4 +2,4 @@ defaults:
   - model: lightgbm  # conf/model/lightgbm.yaml を読み込むという意味
   - _self_
 
-exp_name: "exp001_first_try" # 実験名などをメモしておける
+exp_name: "sub6" # 実験名などをメモしておける
